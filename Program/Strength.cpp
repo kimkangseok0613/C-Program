@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "Strength.h"
+#include "strength.h"
 
 void Strength::Enhance()
 {
