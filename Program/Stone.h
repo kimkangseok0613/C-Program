@@ -3,7 +3,7 @@
 class Stone : public Block
 {
 public:
-	float resistance;
-	float hardness;
+	Stone();
 	virtual void Describe() override;
+	~Stone();
 };

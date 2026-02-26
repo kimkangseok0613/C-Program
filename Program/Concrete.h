@@ -4,7 +4,7 @@
 class Concrete : public Block
 {
 public:
-	float resistance;
-	float hardness;
+	Concrete();
 	virtual void Describe() override;
+	~Concrete();
 };
