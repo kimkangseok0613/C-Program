@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C-Program\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\User\\Desktop\\C-Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\User\\Desktop\\C-Program\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\User\\Desktop\\C-Program\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Vector2.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-Program\\Program\\Vector2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Vector2.cpp",
               "RelativeDocumentMoniker": "Vector2.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\C-Program\\Program\\Vector2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Vector2.cpp",
               "RelativeToolTip": "Vector2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-26T12:06:29.314Z",
+              "WhenOpened": "2026-02-27T11:01:05.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Vector2.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-Program\\Program\\Vector2.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Vector2.h",
               "RelativeDocumentMoniker": "Vector2.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\C-Program\\Program\\Vector2.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Vector2.h",
               "RelativeToolTip": "Vector2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-26T12:04:26.586Z",
               "EditorCaption": ""
@@ -58,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-Program\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\C-Program\\Program\\Program.cpp*",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-24T10:57:56.526Z",
               "EditorCaption": ""
