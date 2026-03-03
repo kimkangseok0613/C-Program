@@ -1,7 +1,2 @@
 ﻿  Program.cpp
-  Vector2.cpp
-  코드를 생성하고 있습니다...
-C:\Users\Administrator\Desktop\C-Program\Program\Vector2.cpp(14,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
-C:\Users\Administrator\Desktop\C-Program\Program\Vector2.cpp(21,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
-C:\Users\Administrator\Desktop\C-Program\Program\Vector2.cpp(28,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
-  Program.vcxproj -> C:\Users\Administrator\Desktop\C-Program\Program\x64\Debug\Program.exe
+  Program.vcxproj -> C:\Users\User\Desktop\C-Program\Program\x64\Debug\Program.exe
