@@ -1,41 +1,11 @@
 #include "stdafx.h"
-#include "Material.h"
-#include "Resource.h"
 
 int main()
 {
-#pragma region 스마트 포인터
-	// 포인터를 사용하는 동시에 자동으로 메모리 관리를 해주며,
-	// 경계 확인과 같은 추가 기능을 제공해주는 포인터입니다.
-
-#pragma region unique pointer
-	// 특정한 객체를 하나의 스마트 포인터만 가리킬 수
-	// 있도록 되어 있는 포인터입니다.
-	// unique_ptr<자료형>이름 = make_unique<자료형>();
-
-	// unique_ptr<Material>pointer = make_unique<Material>();
-	// 
-	// unique_ptr<Material> reference = move(pointer);
-
-#pragma endregion
-
-#pragma region shared pointer
-	// 하나의 자원 객체를 여러 포인터 객체가 가리킬 수 있으며,
-	// 모든 포인터 객체가 자원 객체를 필요로 하지 않을때,
-	// 자원 객체를 해제하도록 설계되어 있는 포인터입니다.
-	// shared_ptr<자료형>이름 = make_shared<자료형>();
-
-	// shared_ptr<Resource>texture = make_shared<Resource>();
-	// {
-	// 	shared_ptr<Resource> button = texture;
-	// 
-	// 	cout << "Reference Count : " << texture.use_count() << endl; // 2
-	// }
-	// 
-	// cout << "Reference Count : " << texture.use_count() << endl; // 1
-
-#pragma endregion
-
+#pragma region STL
+	// STL : Standard Template Library
+	//
+	
 #pragma endregion
 
 	return 0;

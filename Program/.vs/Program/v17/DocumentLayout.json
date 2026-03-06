@@ -3,16 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D2224D-41A8-41CD-BB0B-F58B81152D95}|..\\Class 09th (Smart Pointer)\\Class 09th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5D71C88-F8CD-418A-A063-E57A1B147DEE}|Program.vcxproj|solutionrelative:Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +35,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resource.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Resource.cpp",
-              "RelativeDocumentMoniker": "Resource.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Resource.cpp",
-              "RelativeToolTip": "Resource.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-05T12:18:18.369Z",
+              "DocumentIndex": 0,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Resource.h",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Resource.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Resource.h",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T12:41:08.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Resource.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Resource.h",
-              "RelativeDocumentMoniker": "Resource.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Resource.h",
-              "RelativeToolTip": "Resource.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Material.h",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Material.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Material.h",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-05T12:18:00.781Z",
+              "WhenOpened": "2026-03-06T12:41:06.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Character.h",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Character.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Character.h",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T12:41:06.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Resource.cpp",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Resource.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Resource.cpp",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:41:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:41:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Material.cpp",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Material.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Material.cpp",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:40:59.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Character.cpp",
+              "RelativeDocumentMoniker": "..\\Class 09th (Smart Pointer)\\Character.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Class 09th (Smart Pointer)\\Character.cpp",
+              "RelativeToolTip": "..\\Class 09th (Smart Pointer)\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:40:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-05T11:18:54.04Z",
               "EditorCaption": ""
